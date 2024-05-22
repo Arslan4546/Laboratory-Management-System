@@ -1,0 +1,6 @@
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\bin\Debug\ModelLayer.dll
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\bin\Debug\ModelLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\obj\Debug\ModelLayer.csproj.AssemblyReference.cache
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\obj\Debug\ModelLayer.dll
+A:\C# practices\laboratorySystem\3-tier\ModelLayer\obj\Debug\ModelLayer.pdb

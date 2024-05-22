@@ -1,0 +1,17 @@
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\BussinessLayer.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\BussinessLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\DataLayer.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\ModelLayer.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\MySql.Data.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\System.Memory.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\System.Numerics.Vectors.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\System.Buffers.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\DataLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\ModelLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\bin\Debug\MySql.Data.xml
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\obj\Debug\BussinessLayer.dll
+A:\C# practices\laboratorySystem\3-tier\BussinessLayer\obj\Debug\BussinessLayer.pdb

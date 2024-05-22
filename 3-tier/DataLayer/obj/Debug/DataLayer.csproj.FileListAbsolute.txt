@@ -1,0 +1,15 @@
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\DataLayer.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\DataLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\ModelLayer.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\MySql.Data.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\System.Memory.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\System.Buffers.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\ModelLayer.pdb
+A:\C# practices\laboratorySystem\3-tier\DataLayer\bin\Debug\MySql.Data.xml
+A:\C# practices\laboratorySystem\3-tier\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+A:\C# practices\laboratorySystem\3-tier\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+A:\C# practices\laboratorySystem\3-tier\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+A:\C# practices\laboratorySystem\3-tier\DataLayer\obj\Debug\DataLayer.dll
+A:\C# practices\laboratorySystem\3-tier\DataLayer\obj\Debug\DataLayer.pdb
