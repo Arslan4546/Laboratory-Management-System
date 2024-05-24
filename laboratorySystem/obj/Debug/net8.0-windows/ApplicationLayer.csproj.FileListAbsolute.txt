@@ -24,3 +24,4 @@ A:\C# practices\laboratorySystem\laboratorySystem\bin\Debug\net8.0-windows\Model
 A:\C# practices\laboratorySystem\laboratorySystem\bin\Debug\net8.0-windows\BussinessLayer.pdb
 A:\C# practices\laboratorySystem\laboratorySystem\bin\Debug\net8.0-windows\ModelLayer.pdb
 A:\C# practices\laboratorySystem\laboratorySystem\bin\Debug\net8.0-windows\DataLayer.pdb
+A:\C# practices\laboratorySystem\laboratorySystem\obj\Debug\net8.0-windows\ApplicationLayer.sourcelink.json

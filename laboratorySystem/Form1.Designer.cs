@@ -53,7 +53,9 @@
             label2 = new Label();
             eqID = new TextBox();
             label1 = new Label();
+            dataGridView1 = new DataGridView();
             groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -313,18 +315,34 @@
             label1.Text = "Equipment ID";
             label1.Click += label1_Click;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.BackgroundColor = SystemColors.ButtonHighlight;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(35, 566);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.RowHeadersWidth = 62;
+            dataGridView1.Size = new Size(922, 358);
+            dataGridView1.TabIndex = 1;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(991, 554);
+            ClientSize = new Size(1009, 949);
+            Controls.Add(dataGridView1);
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Laboratory System";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
 
@@ -355,5 +373,6 @@
         private Button button2;
         private Button button1;
         private Button button4;
+        private DataGridView dataGridView1;
     }
 }
